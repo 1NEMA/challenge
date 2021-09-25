@@ -1,0 +1,44 @@
+CHALLENGE DU WEEK-END
+Reproduire  parfaitement le site web suivant : https://template-kit.rootlayers.com/portosia/?storefront=envato-elements
+Technologie utilisé : HTML + CSS + BOOTSTRAP + JAVASCRIPT
+Deadline : 25/09/2021 à 19 h 00
+Modalités pédagogiques : travail en équipe
+Livrables : liens repository + lien GitHub page
+NB :
+Obligatoire pour tous
+le site doit au moins ressembler a 95% au site d'origine.
+le site doit être entièrement responsive .
+aucun Framework javascript n'est permis.
+Liste des différents groupes pour le challenge
+groupe 1 :
+AMANI KOFFI VALENTIN
+NEMA SIDY MOHAMED
+SANOGO BRAHIMA
+groupe 2 :
+DIPLO PRINCE
+CAMARA MAMADOU
+BOUADOU BRICE
+groupe 3 :
+DAGNOGO YÔH MYRIAM RAHIMAH SYNTHICHE
+MOGOLÉ BLÉ YVAN ALFRED
+KONATE	 MAMADOU
+groupe 4 :
+KOFFI AYA SEPHORA
+DEGRE ADY ARSENE DONALD
+KONAN	YASSOI FELIX INNOCENT
+groupe 5 :
+GNETO TIERO DOMINIQUE
+GNAMIEN KOUASSI JEAN VINCENT ARISTHIDE
+ODI	STEPHANE
+groupe 6 :
+SEI	BAH ALAIN
+SANGARE YOUSSOUF
+KOUAKOU	N'GUESSAN FRANCK OLIVIER
+groupe 7 :
+SOUMAHORO SIAKA
+TOKPA	KESSE JEAN-NOËL
+ZANLE	BI BLI STEPHANE
+groupe 8 :
+KADIO AHOSSI ANGE ARMAND
+DAO Lassina
+AGNISSAN Jean Fulbert Kouassi
